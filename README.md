@@ -40,7 +40,7 @@ systemctl start victoriametrics.service
 systemctl status victoriametrics.service
 ```
 
-### Additional segmen for prometheus that used to push it's metrics into victoriametrics
+### Additional segment for prometheus that used to push the metrics into victoriametrics
 
 1. Edit prometheus.yml
 
