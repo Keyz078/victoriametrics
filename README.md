@@ -1,6 +1,10 @@
 # victoriametrics
 This is just a few step for installing victoria metrics
 
+![image](https://user-images.githubusercontent.com/95601942/194399009-86ce040b-2f05-4f5d-a113-0541e2929656.png)
+source : https://docs.victoriametrics.com/Single-server-VictoriaMetrics.html
+
+
 Step:
 
 1. Download victoria from the official site
